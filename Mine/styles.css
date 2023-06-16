@@ -1,0 +1,32 @@
+body{
+    background-color: blueviolet;
+}
+h1{
+    background-color: rgb(114, 114, 221);
+    position: relative;
+    padding: 10px;
+    color: white;
+    margin: 0%;
+    text-align: center;
+}
+img{
+    width: 750px;
+    height: 600px;
+    float: left;
+
+}
+.second {
+    display: inline-block;
+    color: white;
+    margin-top: 180px;
+    margin-left: 100px;
+ 
+}
+footer{
+    background-color: rgb(5, 5, 5);
+    clear: both ;
+    text-align: center;
+    color: aliceblue;
+    padding: 3px;
+    font-size: 20px;
+}
